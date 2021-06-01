@@ -1,6 +1,6 @@
 # Terminal Swither
 
-This is a extension that i made for myself for changing my default terminal profile.
+This is a extension that i made for myself for changing my default terminal profile in vscode
 
 ## What does it do?
 
